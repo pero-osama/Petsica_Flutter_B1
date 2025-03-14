@@ -3,7 +3,7 @@ import 'package:device_preview/device_preview.dart';
 import 'package:petsica/core/constants.dart';
 import 'package:petsica/core/utils/app_router.dart';
 void main() {
-  // perooooooo2222
+  // yoooooooo
   runApp(
     DevicePreview(
       enabled: false, // تفعيل معاينة الجهاز
